@@ -1,0 +1,8 @@
+{
+  "name": "Remix AdCraft Studio - AI Facebook Ad Engine",
+  "description": "Deep thinking creative optimizer, Meta ad policy compliance linter, smart multi-format cropper, post-pack copy generator, and realistic Facebook ad mockup previewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
